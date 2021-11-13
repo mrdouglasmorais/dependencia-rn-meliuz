@@ -1,8 +1,15 @@
 {
   "name": "dependenciarnmeliuz",
+  "description": "MeliuzGama",
+  "author": "Gabriel Andrade <gabrielvitor.limamatias4@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mrdouglasmorais/dependencia-rn-meliuz"
+  },
   "version": "0.0.1",
   "private": true,
   "main": "lib/index.ts",
+  "keywords": ["MeliuzGama"],
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios",
