@@ -7,7 +7,7 @@
     "url": "https://github.com/mrdouglasmorais/dependencia-rn-meliuz"
   },
   "version": "0.0.1",
-  "private": true,
+  "private": false,
   "main": "lib/index.ts",
   "keywords": ["MeliuzGama"],
   "scripts": {
