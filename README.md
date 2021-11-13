@@ -2,3 +2,6 @@
 Publicando Pacote no NPM:
 
 Publicação:
+`npm adduser`
+`npm login`
+
