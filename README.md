@@ -1,2 +1,4 @@
 # dependencia-rn-meliuz
-Publicando Pacote no NPM
+Publicando Pacote no NPM:
+
+Publicação:
